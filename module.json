@@ -1,0 +1,12 @@
+{
+    "name": "auto-busy-friend-list",
+    "author": "FrostSigil",
+    "description": "Auto switch to busy status for friends list",
+    "options": {
+        "cliName": "auto-busy-friend-list",
+        "guiName": "auto-busy-friend-list"
+    },
+    "servers": ["https://raw.githubusercontent.com/FrostSigil/auto-busy-friend-list/master/"],
+    "version": "1.0",
+    "disableAutoUpdate": false
+}
